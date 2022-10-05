@@ -16,5 +16,5 @@ Excutable file is generated to bin folder
 Run file main.exe in bin folder 
 
 ``` bash
-./bin/main
+cd bin && main
 ```
